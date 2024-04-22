@@ -16,5 +16,7 @@ class FACTORY_MEGALAGAUSFX_API AFabriNaveTerrestre : public AFabriNaves
 
 public:
 	virtual ANaveEnemiga* CrearNaveEnemiga(FString NaveEnemigaSKU) override;
+	/*UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Projectile, meta = (AllowPrivateAccess = "true"))
+	UStaticMeshComponent* ShipMeshComponent;*/
 	
 };

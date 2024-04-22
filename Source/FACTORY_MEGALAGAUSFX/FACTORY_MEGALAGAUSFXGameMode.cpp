@@ -22,22 +22,32 @@ void AFACTORY_MEGALAGAUSFXGameMode::BeginPlay()
 	AFabriNaves* FabriNaveTerrestrre= GetWorld()->SpawnActor<AFabriNaveTerrestre>(AFabriNaveTerrestre::StaticClass());	
 
 	FVector PosicionNaveEnemiga = FVector(250.0f, 250.0f, 270.f);	
+	FVector PosicionNaveEnemigaTerrestre = FVector(250.0f, 250.0f, 270.f);
 
 
 	UWorld* World = GetWorld();
 
 	if (World != nullptr) {
 
-		FVector PosicionNaveEnemigas = PosicionNaveEnemiga;
+		FVector PosicionNaveEnemigaAreas = PosicionNaveEnemiga;
 		for (int i = 0; i < 5; i++) {
 
-			PosicionNaveEnemigas=FVector(PosicionNaveEnemiga.X + 100.0f, PosicionNaveEnemiga.Y+i*150, PosicionNaveEnemiga.Z);
+			PosicionNaveEnemigaAreas=FVector(PosicionNaveEnemiga.X + 100.0f, PosicionNaveEnemiga.Y+i*150, PosicionNaveEnemiga.Z);
 			ANaveEnemiga* NaveEnemiga = FabriNaveArea->CrearNaveEnemiga("NaveEnemigaAerea");
-			NaveEnemiga->SetActorLocation(PosicionNaveEnemigas);
+			NaveEnemiga->SetActorLocation(PosicionNaveEnemigaAreas);
 		
 		
 		
 		}
+		
+		FVector PosicionNaveEnemigaTerrestres = PosicionNaveEnemigaTerrestre;	
+		for (int i = 0; i < 5; i++) {
+
+			PosicionNaveEnemigaTerrestres = FVector(PosicionNaveEnemigaTerrestre.X*i+350 , PosicionNaveEnemigaTerrestre.Y+150, PosicionNaveEnemigaTerrestre.Z);
+			ANaveEnemiga* NaveEnemigaTerrestre = FabriNaveTerrestrre->CrearNaveEnemiga("Nave Terrestre");
+			NaveEnemigaTerrestre->SetActorLocation(PosicionNaveEnemigaTerrestres);
+		}
+		
 		
 
 
