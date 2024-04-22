@@ -1,0 +1,27 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-FACTORY_MEGALAGAUSFX-0007.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\CAPITAL COMPUTERS\OneDrive\DAtos Word\OneDrive\Documentos\Unreal Projects\FACTORY_MEGALAGAUSFX\Intermediate\Build\Win64\FACTORY_MEGALAGAUSFXEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\CAPITAL COMPUTERS\OneDrive\DAtos Word\OneDrive\Documentos\Unreal Projects\FACTORY_MEGALAGAUSFX\Intermediate\Build\Win64\UE4Editor\Development\FACTORY_MEGALAGAUSFX\FabriNaveArea.cpp.obj"
+"C:\Users\CAPITAL COMPUTERS\OneDrive\DAtos Word\OneDrive\Documentos\Unreal Projects\FACTORY_MEGALAGAUSFX\Intermediate\Build\Win64\UE4Editor\Development\FACTORY_MEGALAGAUSFX\FabriNaves.cpp.obj"
+"C:\Users\CAPITAL COMPUTERS\OneDrive\DAtos Word\OneDrive\Documentos\Unreal Projects\FACTORY_MEGALAGAUSFX\Intermediate\Build\Win64\UE4Editor\Development\FACTORY_MEGALAGAUSFX\FabriNaveTerrestre.cpp.obj"
+"C:\Users\CAPITAL COMPUTERS\OneDrive\DAtos Word\OneDrive\Documentos\Unreal Projects\FACTORY_MEGALAGAUSFX\Intermediate\Build\Win64\UE4Editor\Development\FACTORY_MEGALAGAUSFX\FACTORY_MEGALAGAUSFX.cpp.obj"
+"C:\Users\CAPITAL COMPUTERS\OneDrive\DAtos Word\OneDrive\Documentos\Unreal Projects\FACTORY_MEGALAGAUSFX\Intermediate\Build\Win64\UE4Editor\Development\FACTORY_MEGALAGAUSFX\FACTORY_MEGALAGAUSFXGameMode.cpp.obj"
+"C:\Users\CAPITAL COMPUTERS\OneDrive\DAtos Word\OneDrive\Documentos\Unreal Projects\FACTORY_MEGALAGAUSFX\Intermediate\Build\Win64\UE4Editor\Development\FACTORY_MEGALAGAUSFX\FACTORY_MEGALAGAUSFXPawn.cpp.obj"
+"C:\Users\CAPITAL COMPUTERS\OneDrive\DAtos Word\OneDrive\Documentos\Unreal Projects\FACTORY_MEGALAGAUSFX\Intermediate\Build\Win64\UE4Editor\Development\FACTORY_MEGALAGAUSFX\FACTORY_MEGALAGAUSFXProjectile.cpp.obj"
+"C:\Users\CAPITAL COMPUTERS\OneDrive\DAtos Word\OneDrive\Documentos\Unreal Projects\FACTORY_MEGALAGAUSFX\Intermediate\Build\Win64\UE4Editor\Development\FACTORY_MEGALAGAUSFX\NaveEnemiga.cpp.obj"
+"C:\Users\CAPITAL COMPUTERS\OneDrive\DAtos Word\OneDrive\Documentos\Unreal Projects\FACTORY_MEGALAGAUSFX\Intermediate\Build\Win64\UE4Editor\Development\FACTORY_MEGALAGAUSFX\FabriNaveArea.gen.cpp.obj"
+"C:\Users\CAPITAL COMPUTERS\OneDrive\DAtos Word\OneDrive\Documentos\Unreal Projects\FACTORY_MEGALAGAUSFX\Intermediate\Build\Win64\UE4Editor\Development\FACTORY_MEGALAGAUSFX\FabriNaves.gen.cpp.obj"
+"C:\Users\CAPITAL COMPUTERS\OneDrive\DAtos Word\OneDrive\Documentos\Unreal Projects\FACTORY_MEGALAGAUSFX\Intermediate\Build\Win64\UE4Editor\Development\FACTORY_MEGALAGAUSFX\FabriNaveTerrestre.gen.cpp.obj"
+"C:\Users\CAPITAL COMPUTERS\OneDrive\DAtos Word\OneDrive\Documentos\Unreal Projects\FACTORY_MEGALAGAUSFX\Intermediate\Build\Win64\UE4Editor\Development\FACTORY_MEGALAGAUSFX\FACTORY_MEGALAGAUSFX.init.gen.cpp.obj"
+"C:\Users\CAPITAL COMPUTERS\OneDrive\DAtos Word\OneDrive\Documentos\Unreal Projects\FACTORY_MEGALAGAUSFX\Intermediate\Build\Win64\UE4Editor\Development\FACTORY_MEGALAGAUSFX\FACTORY_MEGALAGAUSFXGameMode.gen.cpp.obj"
+"C:\Users\CAPITAL COMPUTERS\OneDrive\DAtos Word\OneDrive\Documentos\Unreal Projects\FACTORY_MEGALAGAUSFX\Intermediate\Build\Win64\UE4Editor\Development\FACTORY_MEGALAGAUSFX\FACTORY_MEGALAGAUSFXPawn.gen.cpp.obj"
+"C:\Users\CAPITAL COMPUTERS\OneDrive\DAtos Word\OneDrive\Documentos\Unreal Projects\FACTORY_MEGALAGAUSFX\Intermediate\Build\Win64\UE4Editor\Development\FACTORY_MEGALAGAUSFX\FACTORY_MEGALAGAUSFXProjectile.gen.cpp.obj"
+"C:\Users\CAPITAL COMPUTERS\OneDrive\DAtos Word\OneDrive\Documentos\Unreal Projects\FACTORY_MEGALAGAUSFX\Intermediate\Build\Win64\UE4Editor\Development\FACTORY_MEGALAGAUSFX\NaveEnemiga.gen.cpp.obj"
+"C:\Users\CAPITAL COMPUTERS\OneDrive\DAtos Word\OneDrive\Documentos\Unreal Projects\FACTORY_MEGALAGAUSFX\Intermediate\Build\Win64\UE4Editor\Development\FACTORY_MEGALAGAUSFX\Default.rc2.res"
+/OUT:"C:\Users\CAPITAL COMPUTERS\OneDrive\DAtos Word\OneDrive\Documentos\Unreal Projects\FACTORY_MEGALAGAUSFX\Intermediate\Build\Win64\UE4Editor\Development\FACTORY_MEGALAGAUSFX\UE4Editor-FACTORY_MEGALAGAUSFX-0007.lib"

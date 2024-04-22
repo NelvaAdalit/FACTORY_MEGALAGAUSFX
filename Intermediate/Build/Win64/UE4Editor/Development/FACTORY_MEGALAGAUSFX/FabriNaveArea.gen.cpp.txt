@@ -1,0 +1,9 @@
+C:\Users\CAPITAL COMPUTERS\OneDrive\DAtos Word\OneDrive\Documentos\Unreal Projects\FACTORY_MEGALAGAUSFX\Intermediate\Build\Win64\UE4Editor\Development\FACTORY_MEGALAGAUSFX\Definitions.FACTORY_MEGALAGAUSFX.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\CAPITAL COMPUTERS\OneDrive\DAtos Word\OneDrive\Documentos\Unreal Projects\FACTORY_MEGALAGAUSFX\Source\FACTORY_MEGALAGAUSFX/FabriNaveArea.h
+C:\Users\CAPITAL COMPUTERS\OneDrive\DAtos Word\OneDrive\Documentos\Unreal Projects\FACTORY_MEGALAGAUSFX\Source\FACTORY_MEGALAGAUSFX\FabriNaves.h
+C:\Users\CAPITAL COMPUTERS\OneDrive\DAtos Word\OneDrive\Documentos\Unreal Projects\FACTORY_MEGALAGAUSFX\Source\FACTORY_MEGALAGAUSFX\NaveEnemiga.h
+C:\Users\CAPITAL COMPUTERS\OneDrive\DAtos Word\OneDrive\Documentos\Unreal Projects\FACTORY_MEGALAGAUSFX\Intermediate\Build\Win64\UE4Editor\Inc\FACTORY_MEGALAGAUSFX\NaveEnemiga.generated.h
+C:\Users\CAPITAL COMPUTERS\OneDrive\DAtos Word\OneDrive\Documentos\Unreal Projects\FACTORY_MEGALAGAUSFX\Intermediate\Build\Win64\UE4Editor\Inc\FACTORY_MEGALAGAUSFX\FabriNaves.generated.h
+C:\Users\CAPITAL COMPUTERS\OneDrive\DAtos Word\OneDrive\Documentos\Unreal Projects\FACTORY_MEGALAGAUSFX\Intermediate\Build\Win64\UE4Editor\Inc\FACTORY_MEGALAGAUSFX\FabriNaveArea.generated.h

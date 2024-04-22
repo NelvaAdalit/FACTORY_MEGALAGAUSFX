@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\FACTORY_MEGALAGAUSFX.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{9A9C435B-AA54-4EE0-B177-89E5B14FD3F4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\FACTORY_MEGALAGAUSFX.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FACTORY_MEGALAGAUSFXEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{F34140A4-18E1-42A1-9A16-C4CB8F9DC2E9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\FACTORY_MEGALAGAUSFX">
+      <UniqueIdentifier>{A08FD00D-063A-4291-BCA0-265BD72C260A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\FACTORY_MEGALAGAUSFX\FabriNaveArea.cpp">
+      <Filter>Source\FACTORY_MEGALAGAUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FACTORY_MEGALAGAUSFX\FabriNaveArea.h">
+      <Filter>Source\FACTORY_MEGALAGAUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FACTORY_MEGALAGAUSFX\FabriNaves.cpp">
+      <Filter>Source\FACTORY_MEGALAGAUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FACTORY_MEGALAGAUSFX\FabriNaves.h">
+      <Filter>Source\FACTORY_MEGALAGAUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FACTORY_MEGALAGAUSFX\FabriNaveTerrestre.cpp">
+      <Filter>Source\FACTORY_MEGALAGAUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FACTORY_MEGALAGAUSFX\FabriNaveTerrestre.h">
+      <Filter>Source\FACTORY_MEGALAGAUSFX</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\FACTORY_MEGALAGAUSFX\FACTORY_MEGALAGAUSFX.Build.cs">
+      <Filter>Source\FACTORY_MEGALAGAUSFX</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\FACTORY_MEGALAGAUSFX\FACTORY_MEGALAGAUSFX.cpp">
+      <Filter>Source\FACTORY_MEGALAGAUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FACTORY_MEGALAGAUSFX\FACTORY_MEGALAGAUSFX.h">
+      <Filter>Source\FACTORY_MEGALAGAUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FACTORY_MEGALAGAUSFX\FACTORY_MEGALAGAUSFXGameMode.cpp">
+      <Filter>Source\FACTORY_MEGALAGAUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FACTORY_MEGALAGAUSFX\FACTORY_MEGALAGAUSFXGameMode.h">
+      <Filter>Source\FACTORY_MEGALAGAUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FACTORY_MEGALAGAUSFX\FACTORY_MEGALAGAUSFXPawn.cpp">
+      <Filter>Source\FACTORY_MEGALAGAUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FACTORY_MEGALAGAUSFX\FACTORY_MEGALAGAUSFXPawn.h">
+      <Filter>Source\FACTORY_MEGALAGAUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FACTORY_MEGALAGAUSFX\FACTORY_MEGALAGAUSFXProjectile.cpp">
+      <Filter>Source\FACTORY_MEGALAGAUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FACTORY_MEGALAGAUSFX\FACTORY_MEGALAGAUSFXProjectile.h">
+      <Filter>Source\FACTORY_MEGALAGAUSFX</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\FACTORY_MEGALAGAUSFX\NaveEnemiga.cpp">
+      <Filter>Source\FACTORY_MEGALAGAUSFX</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\FACTORY_MEGALAGAUSFX\NaveEnemiga.h">
+      <Filter>Source\FACTORY_MEGALAGAUSFX</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

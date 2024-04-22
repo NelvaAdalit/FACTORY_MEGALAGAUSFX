@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FACTORY_MEGALAGAUSFX",
+			"Path": "C:\\Users\\CAPITAL COMPUTERS\\OneDrive\\DAtos Word\\OneDrive\\Documentos\\Unreal Projects\\FACTORY_MEGALAGAUSFX\\Source\\FACTORY_MEGALAGAUSFX.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FACTORY_MEGALAGAUSFXEditor",
+			"Path": "C:\\Users\\CAPITAL COMPUTERS\\OneDrive\\DAtos Word\\OneDrive\\Documentos\\Unreal Projects\\FACTORY_MEGALAGAUSFX\\Source\\FACTORY_MEGALAGAUSFXEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

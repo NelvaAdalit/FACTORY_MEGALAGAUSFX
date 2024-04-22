@@ -1,0 +1,23 @@
+C:\Users\CAPITAL COMPUTERS\OneDrive\DAtos Word\OneDrive\Documentos\Unreal Projects\FACTORY_MEGALAGAUSFX\Intermediate\Build\Win64\UE4Editor\Development\FACTORY_MEGALAGAUSFX\Definitions.FACTORY_MEGALAGAUSFX.h
+C:\Users\CAPITAL COMPUTERS\OneDrive\DAtos Word\OneDrive\Documentos\Unreal Projects\FACTORY_MEGALAGAUSFX\Source\FACTORY_MEGALAGAUSFX\FACTORY_MEGALAGAUSFXGameMode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\CAPITAL COMPUTERS\OneDrive\DAtos Word\OneDrive\Documentos\Unreal Projects\FACTORY_MEGALAGAUSFX\Intermediate\Build\Win64\UE4Editor\Inc\FACTORY_MEGALAGAUSFX\FACTORY_MEGALAGAUSFXGameMode.generated.h
+C:\Users\CAPITAL COMPUTERS\OneDrive\DAtos Word\OneDrive\Documentos\Unreal Projects\FACTORY_MEGALAGAUSFX\Source\FACTORY_MEGALAGAUSFX\FACTORY_MEGALAGAUSFXPawn.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\CAPITAL COMPUTERS\OneDrive\DAtos Word\OneDrive\Documentos\Unreal Projects\FACTORY_MEGALAGAUSFX\Intermediate\Build\Win64\UE4Editor\Inc\FACTORY_MEGALAGAUSFX\FACTORY_MEGALAGAUSFXPawn.generated.h
+C:\Users\CAPITAL COMPUTERS\OneDrive\DAtos Word\OneDrive\Documentos\Unreal Projects\FACTORY_MEGALAGAUSFX\Source\FACTORY_MEGALAGAUSFX\FabriNaveArea.h
+C:\Users\CAPITAL COMPUTERS\OneDrive\DAtos Word\OneDrive\Documentos\Unreal Projects\FACTORY_MEGALAGAUSFX\Source\FACTORY_MEGALAGAUSFX\FabriNaves.h
+C:\Users\CAPITAL COMPUTERS\OneDrive\DAtos Word\OneDrive\Documentos\Unreal Projects\FACTORY_MEGALAGAUSFX\Source\FACTORY_MEGALAGAUSFX\NaveEnemiga.h
+C:\Users\CAPITAL COMPUTERS\OneDrive\DAtos Word\OneDrive\Documentos\Unreal Projects\FACTORY_MEGALAGAUSFX\Intermediate\Build\Win64\UE4Editor\Inc\FACTORY_MEGALAGAUSFX\NaveEnemiga.generated.h
+C:\Users\CAPITAL COMPUTERS\OneDrive\DAtos Word\OneDrive\Documentos\Unreal Projects\FACTORY_MEGALAGAUSFX\Intermediate\Build\Win64\UE4Editor\Inc\FACTORY_MEGALAGAUSFX\FabriNaves.generated.h
+C:\Users\CAPITAL COMPUTERS\OneDrive\DAtos Word\OneDrive\Documentos\Unreal Projects\FACTORY_MEGALAGAUSFX\Intermediate\Build\Win64\UE4Editor\Inc\FACTORY_MEGALAGAUSFX\FabriNaveArea.generated.h
+C:\Users\CAPITAL COMPUTERS\OneDrive\DAtos Word\OneDrive\Documentos\Unreal Projects\FACTORY_MEGALAGAUSFX\Source\FACTORY_MEGALAGAUSFX\FabriNaveTerrestre.h
+C:\Users\CAPITAL COMPUTERS\OneDrive\DAtos Word\OneDrive\Documentos\Unreal Projects\FACTORY_MEGALAGAUSFX\Intermediate\Build\Win64\UE4Editor\Inc\FACTORY_MEGALAGAUSFX\FabriNaveTerrestre.generated.h
